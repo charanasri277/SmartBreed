@@ -1,1 +1,10 @@
+# secrets and env files
+.env
+.streamlit/secrets.toml
+*.log
 
+# python
+__pycache__/
+*.pyc
+venv/
+.env.*
