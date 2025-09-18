@@ -9,3 +9,4 @@ pyttsx3
 youtube-search
 youtubesearchpython
 phi
+python-3.10
