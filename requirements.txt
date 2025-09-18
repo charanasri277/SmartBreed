@@ -1,0 +1,11 @@
+streamlit
+pillow
+numpy
+tensorflow
+scikit-learn
+python-dotenv
+gTTS
+pyttsx3
+youtube-search
+youtubesearchpython
+phi
